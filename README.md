@@ -21,7 +21,7 @@ This project displays real-time ambient temperature measured using a DHT11 senso
 - 9V Battery Clip to DC Barrel Jack  
 
 ## Circuit Diagram
-![Circuit Diagram](images/temperature_display_project_photo1.jpg)
+![Circuit Diagram](images/temperature_display_project_photo1.png)
 
 ## How It Works
 1. The DHT11 sensor reads the ambient temperature as a floating-point value.
